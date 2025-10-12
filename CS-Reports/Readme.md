@@ -10,15 +10,9 @@ This folder contains all Computer Science / Cybersecurity lab materials, organiz
 
 ## Notes
 
-- Labs cover topics including:  
-  - Kali Linux installation and configuration  
-  - Bash scripting and automation  
-  - Network traffic capture and analysis (HTTP, DNS, SMTP, etc.)  
-  - Password sniffing and security vulnerabilities  
-  - ARP poisoning / Man-in-the-Middle scenarios  
-  - Metasploitable2 exploitation and penetration testing basics  
-- All work is performed in controlled virtual lab environments.  
-- Screenshots or raw outputs are included only in CLG-Labs for reference; polished reports are text-based and professional.
+- Labs cover topics including Kali Linux, Bash scripting, Wireshark analysis, ARP poisoning, Metasploitable exploitation, Snort, Fail2ban, Hydra, and Nmap.  
+- All work performed in controlled virtual lab environments.  
+- Polished reports are text-based and professional.
 
 <!--
 ## Structure (Commented for reference)
@@ -31,3 +25,17 @@ This folder contains all Computer Science / Cybersecurity lab materials, organiz
 
 - CLG-Labs/          — contains original college lab PDFs  
 - CLG-Lab-Reports/   — contains professional, polished lab reports
+
+### CS Lab Topics (filenames)
+
+- `01-Kali-Install`  
+- `02-Kali-Explore-Bash`  
+- `03-Wireshark-Basics`  
+- `04-Password-Sniffing`  
+- `05-ARP-Poisoning`  
+- `06-Metasploitable-Setup`  
+- `07-Metasploit-Exploit`  
+- `08-Snort-RT-Analysis`  
+- `09-Fail2ban-IP-Banning`  
+- `10-Hydra-Bruteforce`  
+- `11-Nmap-Scanning`
