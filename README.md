@@ -9,11 +9,6 @@ Each report is structured to reflect real-world incident response, threat intell
 - Document lab findings, experiments, and analysis  
 - Track progress and develop reporting skills for future career or portfolio 
 
-## CLG Labs
-
-- Original college lab PDFs are in `CLG-Labs/` (step-by-step instructions with screenshots).  
-- Reworked professional-style reports are in `CLG-Lab-Reports/` showcasing structured documentation, analysis, and lessons learned.
-
 ## Notes
 
 - All reports are generated from **legal and controlled lab environments**  
