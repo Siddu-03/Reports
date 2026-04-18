@@ -1,4 +1,4 @@
-# Reports — Cybersecurity, Agile & DevOps Lab Documentation
+# Reports — Cybersecurity, Computer Networks and Agile & DevOps Lab Documentation
 
 This repository contains professional-style reports documenting my labs, projects, and simulated cybersecurity investigations, along with Agile software engineering and DevOps lab work.  
 Each report is structured to reflect real-world practices in cybersecurity, software development, and operations.
